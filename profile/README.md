@@ -1,5 +1,5 @@
 # WolfNet Computing  
 ## About us...  
 WolfNet Computing C.I.C. is a Community Interest Company that is based around electrical engineering and programming. We are dedicated to providing quality for free and computer related education to all. It was created as an electrical engineering community by [John Wolfe](https://github.com/DarkestSoul1992) in the UK in 2019, has been managed by both himself and his wife Jade since 2023 and was incorporated into a Community Interest Company in 2024, we strive to put maximum effort into everything we design. We don't create things as "Made-To-Order" products. Instead, all of our projects (Schematics, PCB Layouts and Code) are released under an open-source licence with customisation instructions (wherever possible) to ease usage, modification and deployment.  
-## We need volunteers!  
-We are currently looking for designers, programmers and more to volunteer and to either contribute to, or help with managing our open-source projects. Visit our [website](https://wolfnet-computing.com) to apply and register.  
+<!-- ## We need volunteers!  
+We are currently looking for designers, programmers and more to volunteer and to either contribute to, or help with managing our open-source projects. Visit our [website](https://wolfnet-computing.com) to apply and register.  -->
