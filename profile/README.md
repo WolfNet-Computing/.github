@@ -5,4 +5,4 @@
 We are currently looking for designers, programmers and more to volunteer and to either contribute to, or help with managing our open-source projects. Visit our [website](https://wolfnet-computing.com) to apply and register.  -->
 
 ## AI contributions.
-As people are very skeptical of AI generated code we will refrain from using AI generated code, however AI is used to generate the commit messages for the changelogs.
+As people are very skeptical of AI generated code or designs we will refrain from using AI generated materials in our products, however AI is used to generate the commit messages that inform the changelogs for each git commit.
